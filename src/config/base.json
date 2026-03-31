@@ -15,7 +15,8 @@
         "happy-dom",
         "@supabase/ssr",
         "@supabase/supabase-js"
-      ]
+      ],
+      "ignoreUnresolved": ["\\./\\+types/"]
     },
     "apps/storybook": {
       "entry": [".storybook/**/*.{ts,tsx}"]
