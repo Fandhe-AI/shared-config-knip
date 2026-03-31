@@ -30,7 +30,7 @@
     "apps/typedoc": {
       "entry": [],
       "project": [],
-      "ignoreDependencies": ["@repo/shared-config-typedoc"]
+      "ignoreDependencies": ["@fandhe-ai/shared-config-typedoc"]
     },
     "apps/playwright": {
       "entry": ["src/**/*.ts"],
