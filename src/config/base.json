@@ -50,8 +50,8 @@
       "project": ["src/**/*.{ts,tsx}"]
     },
     "packages/shared/config-playwright": {
-      "entry": ["configs/**/*.ts"],
-      "project": ["configs/**/*.ts"]
+      "entry": ["src/**/*.ts"],
+      "project": ["src/**/*.ts"]
     },
     "packages/shared/sandbox": {
       "entry": ["src/**/*.{ts,tsx,json}"],
